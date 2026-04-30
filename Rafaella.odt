@@ -1,0 +1,25 @@
+<html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre Mim</title>
+</head>
+<body>
+
+    <h1>Rafaella Ianne</h1>
+
+    <img src="sua_foto.jpg" alt="Foto de Rafaella Ianne" width="200">
+
+    <p>
+        Oi! Eu sou Rafaella Ianne. Gosto muito de treinar musculação e fazer cardio durante a semana,
+        sempre buscando evoluir e melhorar minha saúde e meu físico. Também curto aprender coisas novas,
+        principalmente na área de tecnologia, e estou sempre focada em crescer e alcançar meus objetivos.
+    </p>
+
+    <p>
+        Um site que eu gosto:
+        <a href="https://www.youtube.com" target="_blank">YouTube</a>
+    </p>
+
+</body>
+</html>
